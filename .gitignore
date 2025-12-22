@@ -2,10 +2,10 @@
 /docs/node_modules
 
 # Production
-/build
+/docs/build
 
 # Generated files
-.docusaurus
+/docs/.docusaurus
 .cache-loader
 
 # Misc
