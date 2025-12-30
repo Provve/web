@@ -12,7 +12,7 @@ const config: Config = {
   },
 
   url: 'https://provve.github.io',
-  baseUrl: '/',
+  baseUrl: '/web/',
 
   onBrokenLinks: 'throw',
   i18n: {
